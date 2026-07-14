@@ -10,3 +10,4 @@
    - Spotify HUD
    - Discord Rich Presence
    - 専用ランチャー
+SCR - https://github.com/Dev-MaY0/MaYoS-Client-SCR
